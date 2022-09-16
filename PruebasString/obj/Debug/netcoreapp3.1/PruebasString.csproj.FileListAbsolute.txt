@@ -1,0 +1,14 @@
+C:\Users\Bus209\Documents\htdocs\UnitTest\PruebasString\bin\Debug\netcoreapp3.1\PruebasString.exe
+C:\Users\Bus209\Documents\htdocs\UnitTest\PruebasString\bin\Debug\netcoreapp3.1\PruebasString.deps.json
+C:\Users\Bus209\Documents\htdocs\UnitTest\PruebasString\bin\Debug\netcoreapp3.1\PruebasString.runtimeconfig.json
+C:\Users\Bus209\Documents\htdocs\UnitTest\PruebasString\bin\Debug\netcoreapp3.1\PruebasString.runtimeconfig.dev.json
+C:\Users\Bus209\Documents\htdocs\UnitTest\PruebasString\bin\Debug\netcoreapp3.1\PruebasString.dll
+C:\Users\Bus209\Documents\htdocs\UnitTest\PruebasString\bin\Debug\netcoreapp3.1\PruebasString.pdb
+C:\Users\Bus209\Documents\htdocs\UnitTest\PruebasString\obj\Debug\netcoreapp3.1\PruebasString.csproj.AssemblyReference.cache
+C:\Users\Bus209\Documents\htdocs\UnitTest\PruebasString\obj\Debug\netcoreapp3.1\PruebasString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bus209\Documents\htdocs\UnitTest\PruebasString\obj\Debug\netcoreapp3.1\PruebasString.AssemblyInfoInputs.cache
+C:\Users\Bus209\Documents\htdocs\UnitTest\PruebasString\obj\Debug\netcoreapp3.1\PruebasString.AssemblyInfo.cs
+C:\Users\Bus209\Documents\htdocs\UnitTest\PruebasString\obj\Debug\netcoreapp3.1\PruebasString.csproj.CoreCompileInputs.cache
+C:\Users\Bus209\Documents\htdocs\UnitTest\PruebasString\obj\Debug\netcoreapp3.1\PruebasString.dll
+C:\Users\Bus209\Documents\htdocs\UnitTest\PruebasString\obj\Debug\netcoreapp3.1\PruebasString.pdb
+C:\Users\Bus209\Documents\htdocs\UnitTest\PruebasString\obj\Debug\netcoreapp3.1\PruebasString.genruntimeconfig.cache
