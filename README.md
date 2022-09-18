@@ -10,3 +10,5 @@
 ##### dotnet sln add .\StringTest\StringTest.csproj
 
 ##### dotnet test --filter StringTest.ResultadoTest
+##### dotnet test --filter StringTest.CasosDePrueba.SortOrdenaElementos
+##### dotnet test --filter TestCategory=Ejemplos

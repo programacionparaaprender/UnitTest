@@ -24,6 +24,7 @@ namespace StringTest
         }
 
         [Test]
+        [Category("Ejemplos")]
         public void Test1()
         {
             Console.WriteLine("Test1");
