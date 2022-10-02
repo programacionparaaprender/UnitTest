@@ -35,13 +35,15 @@ namespace StringTest
 
             for (var i = 0; i < list.Count - 1; i++)
             {
+                //valor es menor o igual
                 Assert.LessOrEqual(list[i], list[i + 1]);
             } 
         }
         [Test]
-        public void SortOrdenaElementosCuandoYaEstanOrdenados()
+        [TestCase(new int[] { 1, 2, 3, 4, 5, 6, 7 })]
+        public void SortOrdenaElementosCuandoYaEstanOrdenados1(int[] elementos)
         {
-            var list = new List<int>(new int[] { 1, 2, 3, 4, 5, 6, 7 });
+            var list = new List<int>(elementos);
             for (var i = 0; i < list.Count - 1; i++)
             {
                 Assert.LessOrEqual(list[i], list[i + 1]);

@@ -1,5 +1,5 @@
 
-
+### https://www.udemy.com/course/unit-testing-nicopaez
 ### comandos
 ##### mkdir UnitTest
 ##### cd UnitTest
@@ -11,4 +11,11 @@
 
 ##### dotnet test --filter StringTest.ResultadoTest
 ##### dotnet test --filter StringTest.CasosDePrueba.SortOrdenaElementos
+##### dotnet test --filter StringTest.CasosDePrueba.SortOrdenaElementosCuandoYaEstanOrdenados1
 ##### dotnet test --filter TestCategory=Ejemplos
+##### dotnet test --filter StringTest.ExampleTest.Test1
+##### dotnet test --filter StringTest.OrdenTest
+
+##### dotnet test --filter StringTest.ResultadoTest.TestIgnorado
+##### dotnet test --filter StringTest.ResultadoTest.TestQuePasa
+##### dotnet test --filter StringTest.ResultadoTest.TestInconcluso
